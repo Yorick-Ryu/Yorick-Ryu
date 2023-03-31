@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Yorick-Ryu
-- 👀 I’m interested in Android Dev
-- 🌱 I’m currently learning Android Dev
-- 💞️ I’m looking to collaborate on Android Dev
-- 📫 How to reach me ...
+# 👋 Hi, I’m Yorick
+
+[![Yorick's GitHub stats](https://github-readme-stats.vercel.app/api?username=yorick-ryu)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 Yorick-Ryu/Yorick-Ryu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
